@@ -3,7 +3,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
-public class MyRunnable implements Runnable{
+public class MyRunnable implements Runnable {
     private static final String PATH_FILE = "src/main/resources/test.txt";
     private Counter counter;
 
