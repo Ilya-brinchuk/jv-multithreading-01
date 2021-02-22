@@ -1,8 +1,8 @@
-import org.apache.log4j.Logger;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
+import org.apache.log4j.Logger;
 
 public class MyRunnable implements Runnable {
     private static final Logger logger = Logger.getLogger(MyRunnable.class);
@@ -17,7 +17,8 @@ public class MyRunnable implements Runnable {
     public void run() {
         while (counter.getCount() < 100) {
             try {
-                String data = Thread.currentThread().getName() + " value = " + counter.getCount() + "\n";
+                String data = Thread.currentThread().getName() + " value = "
+                        + counter.getCount() + "\n";
                 Files.write(Paths.get(PATH_FILE), data.getBytes(), StandardOpenOption.APPEND);
                 counter.increment();
                 logger.info(data);
