@@ -25,7 +25,6 @@ public class MyThread extends Thread {
             } catch (IOException e) {
                 throw new RuntimeException("Can't write in file by this path: " + PATH_FILE, e);
             }
-
         }
     }
 }
