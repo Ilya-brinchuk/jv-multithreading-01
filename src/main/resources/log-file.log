@@ -98,4 +98,4 @@
  10:51:35,527 INFO  MyThread:14 - Thread-0 value = 98
  10:51:35,527 INFO  MyThread:14 - Thread-0 value = 99
  10:51:35,516 INFO  MyRunnable:14 - Thread-1 value = 53
- 
+
