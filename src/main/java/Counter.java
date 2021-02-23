@@ -5,7 +5,7 @@ public class Counter {
         return count;
     }
 
-    public void increment() {
-        count++;
+    public int increment() {
+        return count++;
     }
 }

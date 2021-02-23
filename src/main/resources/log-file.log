@@ -1,201 +1,101 @@
-17:46:37,413 INFO  MyThread:23 - Thread-1 value = 0
-
- 17:46:37,413 INFO  MyRunnable:23 - Thread-2 value = 0
-
- 17:46:37,422 INFO  MyThread:23 - Thread-1 value = 2
-
- 17:46:37,422 INFO  MyRunnable:23 - Thread-2 value = 3
-
- 17:46:37,423 INFO  MyThread:23 - Thread-1 value = 4
-
- 17:46:37,424 INFO  MyRunnable:23 - Thread-2 value = 4
-
- 17:46:37,424 INFO  MyThread:23 - Thread-1 value = 5
-
- 17:46:37,430 INFO  MyThread:23 - Thread-1 value = 7
-
- 17:46:37,430 INFO  MyRunnable:23 - Thread-2 value = 7
-
- 17:46:37,431 INFO  MyThread:23 - Thread-1 value = 9
-
- 17:46:37,431 INFO  MyRunnable:23 - Thread-2 value = 9
-
- 17:46:37,432 INFO  MyRunnable:23 - Thread-2 value = 11
-
- 17:46:37,432 INFO  MyThread:23 - Thread-1 value = 11
-
- 17:46:37,433 INFO  MyRunnable:23 - Thread-2 value = 13
-
- 17:46:37,434 INFO  MyThread:23 - Thread-1 value = 14
-
- 17:46:37,435 INFO  MyRunnable:23 - Thread-2 value = 14
-
- 17:46:37,435 INFO  MyThread:23 - Thread-1 value = 15
-
- 17:46:37,438 INFO  MyRunnable:23 - Thread-2 value = 17
-
- 17:46:37,438 INFO  MyThread:23 - Thread-1 value = 17
-
- 17:46:37,438 INFO  MyRunnable:23 - Thread-2 value = 18
-
- 17:46:37,439 INFO  MyThread:23 - Thread-1 value = 19
-
- 17:46:37,439 INFO  MyRunnable:23 - Thread-2 value = 20
-
- 17:46:37,440 INFO  MyThread:23 - Thread-1 value = 21
-
- 17:46:37,440 INFO  MyRunnable:23 - Thread-2 value = 22
-
- 17:46:37,440 INFO  MyThread:23 - Thread-1 value = 23
-
- 17:46:37,441 INFO  MyRunnable:23 - Thread-2 value = 24
-
- 17:46:37,441 INFO  MyThread:23 - Thread-1 value = 25
-
- 17:46:37,441 INFO  MyRunnable:23 - Thread-2 value = 26
-
- 17:46:37,442 INFO  MyThread:23 - Thread-1 value = 27
-
- 17:46:37,442 INFO  MyRunnable:23 - Thread-2 value = 28
-
- 17:46:37,442 INFO  MyThread:23 - Thread-1 value = 29
-
- 17:46:37,443 INFO  MyRunnable:23 - Thread-2 value = 31
-
- 17:46:37,444 INFO  MyThread:23 - Thread-1 value = 32
-
- 17:46:37,445 INFO  MyRunnable:23 - Thread-2 value = 33
-
- 17:46:37,445 INFO  MyThread:23 - Thread-1 value = 33
-
- 17:46:37,446 INFO  MyRunnable:23 - Thread-2 value = 35
-
- 17:46:37,446 INFO  MyThread:23 - Thread-1 value = 35
-
- 17:46:37,446 INFO  MyRunnable:23 - Thread-2 value = 36
-
- 17:46:37,447 INFO  MyThread:23 - Thread-1 value = 37
-
- 17:46:37,447 INFO  MyRunnable:23 - Thread-2 value = 38
-
- 17:46:37,447 INFO  MyThread:23 - Thread-1 value = 39
-
- 17:46:37,448 INFO  MyRunnable:23 - Thread-2 value = 40
-
- 17:46:37,448 INFO  MyThread:23 - Thread-1 value = 41
-
- 17:46:37,449 INFO  MyRunnable:23 - Thread-2 value = 42
-
- 17:46:37,449 INFO  MyThread:23 - Thread-1 value = 43
-
- 17:46:37,449 INFO  MyRunnable:23 - Thread-2 value = 45
-
- 17:46:37,450 INFO  MyThread:23 - Thread-1 value = 45
-
- 17:46:37,450 INFO  MyRunnable:23 - Thread-2 value = 47
-
- 17:46:37,451 INFO  MyThread:23 - Thread-1 value = 47
-
- 17:46:37,451 INFO  MyRunnable:23 - Thread-2 value = 48
-
- 17:46:37,451 INFO  MyThread:23 - Thread-1 value = 49
-
- 17:46:37,452 INFO  MyRunnable:23 - Thread-2 value = 50
-
- 17:46:37,452 INFO  MyThread:23 - Thread-1 value = 51
-
- 17:46:37,452 INFO  MyRunnable:23 - Thread-2 value = 53
-
- 17:46:37,453 INFO  MyThread:23 - Thread-1 value = 53
-
- 17:46:37,453 INFO  MyRunnable:23 - Thread-2 value = 54
-
- 17:46:37,454 INFO  MyThread:23 - Thread-1 value = 55
-
- 17:46:37,455 INFO  MyRunnable:23 - Thread-2 value = 56
-
- 17:46:37,455 INFO  MyThread:23 - Thread-1 value = 57
-
- 17:46:37,456 INFO  MyThread:23 - Thread-1 value = 59
-
- 17:46:37,456 INFO  MyRunnable:23 - Thread-2 value = 59
-
- 17:46:37,457 INFO  MyThread:23 - Thread-1 value = 61
-
- 17:46:37,458 INFO  MyRunnable:23 - Thread-2 value = 61
-
- 17:46:37,458 INFO  MyRunnable:23 - Thread-2 value = 63
-
- 17:46:37,458 INFO  MyThread:23 - Thread-1 value = 63
-
- 17:46:37,460 INFO  MyRunnable:23 - Thread-2 value = 65
-
- 17:46:37,461 INFO  MyThread:23 - Thread-1 value = 65
-
- 17:46:37,463 INFO  MyThread:23 - Thread-1 value = 67
-
- 17:46:37,463 INFO  MyRunnable:23 - Thread-2 value = 66
-
- 17:46:37,465 INFO  MyRunnable:23 - Thread-2 value = 69
-
- 17:46:37,466 INFO  MyThread:23 - Thread-1 value = 70
-
- 17:46:37,466 INFO  MyRunnable:23 - Thread-2 value = 70
-
- 17:46:37,468 INFO  MyRunnable:23 - Thread-2 value = 72
-
- 17:46:37,468 INFO  MyThread:23 - Thread-1 value = 72
-
- 17:46:37,476 INFO  MyThread:23 - Thread-1 value = 74
-
- 17:46:37,476 INFO  MyThread:23 - Thread-1 value = 75
-
- 17:46:37,478 INFO  MyThread:23 - Thread-1 value = 76
-
- 17:46:37,482 INFO  MyThread:23 - Thread-1 value = 77
-
- 17:46:37,482 INFO  MyRunnable:23 - Thread-2 value = 74
-
- 17:46:37,483 INFO  MyThread:23 - Thread-1 value = 79
-
- 17:46:37,484 INFO  MyThread:23 - Thread-1 value = 80
-
- 17:46:37,485 INFO  MyRunnable:23 - Thread-2 value = 79
-
- 17:46:37,486 INFO  MyThread:23 - Thread-1 value = 81
-
- 17:46:37,488 INFO  MyThread:23 - Thread-1 value = 83
-
- 17:46:37,490 INFO  MyThread:23 - Thread-1 value = 84
-
- 17:46:37,491 INFO  MyThread:23 - Thread-1 value = 85
-
- 17:46:37,493 INFO  MyThread:23 - Thread-1 value = 86
-
- 17:46:37,495 INFO  MyThread:23 - Thread-1 value = 87
-
- 17:46:37,497 INFO  MyThread:23 - Thread-1 value = 88
-
- 17:46:37,498 INFO  MyRunnable:23 - Thread-2 value = 82
-
- 17:46:37,498 INFO  MyThread:23 - Thread-1 value = 89
-
- 17:46:37,500 INFO  MyThread:23 - Thread-1 value = 91
-
- 17:46:37,503 INFO  MyThread:23 - Thread-1 value = 92
-
- 17:46:37,504 INFO  MyRunnable:23 - Thread-2 value = 91
-
- 17:46:37,505 INFO  MyThread:23 - Thread-1 value = 93
-
- 17:46:37,506 INFO  MyThread:23 - Thread-1 value = 95
-
- 17:46:37,507 INFO  MyRunnable:23 - Thread-2 value = 95
-
- 17:46:37,508 INFO  MyThread:23 - Thread-1 value = 96
-
- 17:46:37,510 INFO  MyRunnable:23 - Thread-2 value = 98
-
- 17:46:37,510 INFO  MyThread:23 - Thread-1 value = 98
-
+10:51:35,492 INFO  MyRunnable:14 - Thread-1 value = 1
+ 10:51:35,492 INFO  MyThread:14 - Thread-0 value = 0
+ 10:51:35,498 INFO  MyRunnable:14 - Thread-1 value = 2
+ 10:51:35,498 INFO  MyRunnable:14 - Thread-1 value = 4
+ 10:51:35,499 INFO  MyRunnable:14 - Thread-1 value = 5
+ 10:51:35,498 INFO  MyThread:14 - Thread-0 value = 3
+ 10:51:35,499 INFO  MyRunnable:14 - Thread-1 value = 6
+ 10:51:35,503 INFO  MyThread:14 - Thread-0 value = 7
+ 10:51:35,503 INFO  MyRunnable:14 - Thread-1 value = 8
+ 10:51:35,504 INFO  MyRunnable:14 - Thread-1 value = 10
+ 10:51:35,504 INFO  MyRunnable:14 - Thread-1 value = 11
+ 10:51:35,504 INFO  MyRunnable:14 - Thread-1 value = 12
+ 10:51:35,504 INFO  MyRunnable:14 - Thread-1 value = 13
+ 10:51:35,505 INFO  MyRunnable:14 - Thread-1 value = 14
+ 10:51:35,505 INFO  MyRunnable:14 - Thread-1 value = 15
+ 10:51:35,505 INFO  MyRunnable:14 - Thread-1 value = 16
+ 10:51:35,504 INFO  MyThread:14 - Thread-0 value = 9
+ 10:51:35,510 INFO  MyRunnable:14 - Thread-1 value = 17
+ 10:51:35,510 INFO  MyThread:14 - Thread-0 value = 18
+ 10:51:35,510 INFO  MyThread:14 - Thread-0 value = 20
+ 10:51:35,510 INFO  MyThread:14 - Thread-0 value = 21
+ 10:51:35,511 INFO  MyThread:14 - Thread-0 value = 22
+ 10:51:35,511 INFO  MyThread:14 - Thread-0 value = 23
+ 10:51:35,511 INFO  MyThread:14 - Thread-0 value = 24
+ 10:51:35,511 INFO  MyThread:14 - Thread-0 value = 25
+ 10:51:35,511 INFO  MyThread:14 - Thread-0 value = 26
+ 10:51:35,511 INFO  MyThread:14 - Thread-0 value = 27
+ 10:51:35,511 INFO  MyThread:14 - Thread-0 value = 28
+ 10:51:35,511 INFO  MyThread:14 - Thread-0 value = 29
+ 10:51:35,512 INFO  MyThread:14 - Thread-0 value = 30
+ 10:51:35,512 INFO  MyThread:14 - Thread-0 value = 31
+ 10:51:35,512 INFO  MyThread:14 - Thread-0 value = 32
+ 10:51:35,512 INFO  MyThread:14 - Thread-0 value = 33
+ 10:51:35,512 INFO  MyThread:14 - Thread-0 value = 34
+ 10:51:35,512 INFO  MyThread:14 - Thread-0 value = 35
+ 10:51:35,512 INFO  MyThread:14 - Thread-0 value = 36
+ 10:51:35,512 INFO  MyThread:14 - Thread-0 value = 37
+ 10:51:35,513 INFO  MyThread:14 - Thread-0 value = 38
+ 10:51:35,513 INFO  MyThread:14 - Thread-0 value = 39
+ 10:51:35,513 INFO  MyThread:14 - Thread-0 value = 40
+ 10:51:35,513 INFO  MyThread:14 - Thread-0 value = 41
+ 10:51:35,510 INFO  MyRunnable:14 - Thread-1 value = 19
+ 10:51:35,513 INFO  MyThread:14 - Thread-0 value = 42
+ 10:51:35,514 INFO  MyThread:14 - Thread-0 value = 44
+ 10:51:35,514 INFO  MyThread:14 - Thread-0 value = 45
+ 10:51:35,514 INFO  MyThread:14 - Thread-0 value = 46
+ 10:51:35,514 INFO  MyThread:14 - Thread-0 value = 47
+ 10:51:35,514 INFO  MyRunnable:14 - Thread-1 value = 43
+ 10:51:35,514 INFO  MyThread:14 - Thread-0 value = 48
+ 10:51:35,515 INFO  MyRunnable:14 - Thread-1 value = 49
+ 10:51:35,515 INFO  MyThread:14 - Thread-0 value = 50
+ 10:51:35,515 INFO  MyRunnable:14 - Thread-1 value = 51
+ 10:51:35,515 INFO  MyThread:14 - Thread-0 value = 52
+ 10:51:35,516 INFO  MyThread:14 - Thread-0 value = 54
+ 10:51:35,516 INFO  MyThread:14 - Thread-0 value = 55
+ 10:51:35,516 INFO  MyThread:14 - Thread-0 value = 56
+ 10:51:35,517 INFO  MyThread:14 - Thread-0 value = 57
+ 10:51:35,517 INFO  MyThread:14 - Thread-0 value = 58
+ 10:51:35,518 INFO  MyThread:14 - Thread-0 value = 59
+ 10:51:35,518 INFO  MyThread:14 - Thread-0 value = 60
+ 10:51:35,518 INFO  MyThread:14 - Thread-0 value = 61
+ 10:51:35,519 INFO  MyThread:14 - Thread-0 value = 62
+ 10:51:35,519 INFO  MyThread:14 - Thread-0 value = 63
+ 10:51:35,519 INFO  MyThread:14 - Thread-0 value = 64
+ 10:51:35,519 INFO  MyThread:14 - Thread-0 value = 65
+ 10:51:35,520 INFO  MyThread:14 - Thread-0 value = 66
+ 10:51:35,520 INFO  MyThread:14 - Thread-0 value = 67
+ 10:51:35,520 INFO  MyThread:14 - Thread-0 value = 68
+ 10:51:35,520 INFO  MyThread:14 - Thread-0 value = 69
+ 10:51:35,520 INFO  MyThread:14 - Thread-0 value = 70
+ 10:51:35,521 INFO  MyThread:14 - Thread-0 value = 71
+ 10:51:35,521 INFO  MyThread:14 - Thread-0 value = 72
+ 10:51:35,521 INFO  MyThread:14 - Thread-0 value = 73
+ 10:51:35,522 INFO  MyThread:14 - Thread-0 value = 74
+ 10:51:35,522 INFO  MyThread:14 - Thread-0 value = 75
+ 10:51:35,522 INFO  MyThread:14 - Thread-0 value = 76
+ 10:51:35,523 INFO  MyThread:14 - Thread-0 value = 77
+ 10:51:35,523 INFO  MyThread:14 - Thread-0 value = 78
+ 10:51:35,523 INFO  MyThread:14 - Thread-0 value = 79
+ 10:51:35,523 INFO  MyThread:14 - Thread-0 value = 80
+ 10:51:35,523 INFO  MyThread:14 - Thread-0 value = 81
+ 10:51:35,523 INFO  MyThread:14 - Thread-0 value = 82
+ 10:51:35,524 INFO  MyThread:14 - Thread-0 value = 83
+ 10:51:35,524 INFO  MyThread:14 - Thread-0 value = 84
+ 10:51:35,524 INFO  MyThread:14 - Thread-0 value = 85
+ 10:51:35,524 INFO  MyThread:14 - Thread-0 value = 86
+ 10:51:35,524 INFO  MyThread:14 - Thread-0 value = 87
+ 10:51:35,525 INFO  MyThread:14 - Thread-0 value = 88
+ 10:51:35,525 INFO  MyThread:14 - Thread-0 value = 89
+ 10:51:35,525 INFO  MyThread:14 - Thread-0 value = 90
+ 10:51:35,526 INFO  MyThread:14 - Thread-0 value = 91
+ 10:51:35,526 INFO  MyThread:14 - Thread-0 value = 92
+ 10:51:35,526 INFO  MyThread:14 - Thread-0 value = 93
+ 10:51:35,526 INFO  MyThread:14 - Thread-0 value = 94
+ 10:51:35,526 INFO  MyThread:14 - Thread-0 value = 95
+ 10:51:35,527 INFO  MyThread:14 - Thread-0 value = 96
+ 10:51:35,527 INFO  MyThread:14 - Thread-0 value = 97
+ 10:51:35,527 INFO  MyThread:14 - Thread-0 value = 98
+ 10:51:35,527 INFO  MyThread:14 - Thread-0 value = 99
+ 10:51:35,516 INFO  MyRunnable:14 - Thread-1 value = 53
  

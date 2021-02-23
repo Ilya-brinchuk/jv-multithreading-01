@@ -3,7 +3,7 @@ public class Main {
         Counter counter = new Counter();
         MyRunnable myRunnable = new MyRunnable(counter);
         MyThread myThread = new MyThread(counter);
-        new Thread(myThread).start();
+        myThread.start();
         new Thread(myRunnable).start();
     }
 }
