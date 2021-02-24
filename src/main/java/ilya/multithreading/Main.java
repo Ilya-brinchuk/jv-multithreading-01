@@ -1,6 +1,6 @@
 package ilya.multithreading;
 
-import ilya.multithreading.executor.Executor;
+import ilya.multithreading.executor.SumExecutorService;
 import ilya.multithreading.fork.ForkJoiner;
 import ilya.multithreading.threads.MyRunnable;
 import ilya.multithreading.threads.MyThread;
@@ -17,7 +17,7 @@ public class Main {
 
         ForkJoiner forkJoiner = new ForkJoiner(ListCreator.getList(1));
         System.out.println(forkJoiner.getSum());
-        Executor executor = new Executor(5, ListCreator.getList(1));
+        SumExecutorService executor = new SumExecutorService(5, ListCreator.getList(1));
         System.out.println(executor.sumOfList());
     }
 }

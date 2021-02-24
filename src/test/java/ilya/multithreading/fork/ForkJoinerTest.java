@@ -9,7 +9,7 @@ public class ForkJoinerTest {
     private ForkJoiner forkJoiner;
 
     @Before
-    public void setUp() throws Exception {
+    public void setUp() {
         forkJoiner = new ForkJoiner(ListCreator.getList(4));
     }
 

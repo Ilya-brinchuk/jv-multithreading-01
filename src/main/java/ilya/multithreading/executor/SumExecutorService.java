@@ -9,11 +9,11 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import org.apache.commons.collections4.ListUtils;
 
-public class Executor {
+public class SumExecutorService {
     private int numberOfThread;
     private List<Integer> integers;
 
-    public Executor(int numberOfThread, List<Integer> integers) {
+    public SumExecutorService(int numberOfThread, List<Integer> integers) {
         this.numberOfThread = numberOfThread;
         this.integers = integers;
     }
