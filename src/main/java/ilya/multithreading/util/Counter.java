@@ -1,3 +1,5 @@
+package ilya.multithreading.util;
+
 public class Counter {
     private int count;
 
