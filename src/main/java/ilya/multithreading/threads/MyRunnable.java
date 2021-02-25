@@ -1,10 +1,13 @@
+package ilya.multithreading.threads;
+
+import ilya.multithreading.util.Counter;
 import org.apache.log4j.Logger;
 
-public class MyThread extends Thread {
-    private static final Logger logger = Logger.getLogger(MyThread.class);
+public class MyRunnable implements Runnable {
+    private static final Logger logger = Logger.getLogger(MyRunnable.class);
     private Counter counter;
 
-    public MyThread(Counter counter) {
+    public MyRunnable(Counter counter) {
         this.counter = counter;
     }
 
